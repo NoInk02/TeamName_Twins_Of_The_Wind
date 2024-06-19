@@ -45,5 +45,5 @@ To get started with the project, you can clone the repository and open the `New_
 
 Team Members:-
 - Dev Kaushal
-- Richa Rajshekhar
+- Richa Rajashekhar
 - Aviral Dubey

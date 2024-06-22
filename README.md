@@ -18,7 +18,7 @@ This repository contains all the necessary files and code for our project. Below
 ### Merged_data.csv
 - **Description:** This file is a merge of `Data_1997_1998.csv` and `Evaluation.csv`. The data has been arranged according to the time.
 
-### New_elnino.ipynb
+### New_elnino (2).ipynb
 - **Description:** This is the Jupyter notebook containing the code for our project.
 
 ### Predictions.csv

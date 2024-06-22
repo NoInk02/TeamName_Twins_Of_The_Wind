@@ -41,7 +41,7 @@ This repository contains all the necessary files and code for our project. Below
 
 ## Getting Started
 
-To get started with the project, you can clone the repository and open the `New_elnino.ipynb` file in Jupyter Notebook to explore the code and reproduce the results.
+To get started with the project, you can clone the repository and open the `New_elnino (2).ipynb` file in Jupyter Notebook to explore the code and reproduce the results.
 
 Team Members:-
 - Dev Kaushal

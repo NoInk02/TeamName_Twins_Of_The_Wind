@@ -39,6 +39,12 @@ This repository contains all the necessary files and code for our project. Below
 ### contribution.pdf
 - **Description:** Specifies the work done by each team member.
 
+### predictions_of_evaluation.csv
+- **Description:** This file contains the predictions on evaluation.csv.
+
+### predictions_of_data_1997_1998.csv
+- **Description:** This file contains the predictions on data_1997_1998.csv.
+
 ## Getting Started
 
 To get started with the project, you can clone the repository and open the `New_elnino (2).ipynb` file in Jupyter Notebook to explore the code and reproduce the results.
